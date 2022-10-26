@@ -26,12 +26,14 @@ max-width: 480px;
 max-height: 64px;
 color: #467745;
 font-family: 'Montserrat', sans-serif;
+border: 0px;
 }
 
 textarea{
     max-width: 480px;
     max-height: 120px;
     font-family: 'Montserrat', sans-serif;
+    border: 0px;
 }
 
 .header{
