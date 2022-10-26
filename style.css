@@ -19,21 +19,24 @@ justify-content: center;
 text-align: center;
 color: #467745;
 padding-bottom: 10px;
+width: 480px;
+height: 64px;
 }
 
 input{
-max-width: 480px;
-max-height: 64px;
+
 color: #467745;
 font-family: 'Montserrat', sans-serif;
 border: 0px;
+padding: 0px;
 }
 
 textarea{
-    max-width: 480px;
-    max-height: 120px;
+    width: 480px;
+    height: 120px;
     font-family: 'Montserrat', sans-serif;
     border: 0px;
+    padding: 0px;
 }
 
 .header{
