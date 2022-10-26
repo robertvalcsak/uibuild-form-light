@@ -25,11 +25,13 @@ input{
 max-width: 480px;
 max-height: 64px;
 color: #467745;
+font-family: 'Montserrat', sans-serif;
 }
 
 textarea{
     max-width: 480px;
     max-height: 120px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .header{
@@ -37,6 +39,7 @@ position: relative;
 justify-content: center;
 align-items: center;
 color: #467745;
+font-family: 'EB Garamond', serif;
 }
 
 .describe{
@@ -60,4 +63,9 @@ max-height: 80px;
 border-radius: 15px;
 background-color:#467745;
 color: #F7E4D4;
+font-family: 'EB Garamond', serif;
+}
+
+label{
+font-family: 'Montserrat', sans-serif;
 }
